@@ -1,7 +1,7 @@
 ---
 pcx_content_type: navigation
 title: Account Management & Billing
-weight: 2
+weight: 1
 ---
  
 # Welcome to the Account Management & Billing section
